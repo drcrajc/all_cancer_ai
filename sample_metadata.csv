@@ -1,0 +1,13 @@
+relative_path,class_name,partition,original_patient_id,analysis_group_id
+fold_1/hem/UID_H10_12_1_hem.bmp,HEM,train,H10,LG_H10
+fold_0/hem/UID_H16_11_1_hem.bmp,HEM,train,H16,LG_H16
+fold_1/hem/UID_H22_35_3_hem.bmp,HEM,train,H22,LG_H22
+fold_2/hem/UID_H2_24_1_hem.bmp,HEM,train,H2,LG_H2
+fold_1/hem/UID_H14_30_4_hem.bmp,HEM,train,H14,LG_H14
+fold_2/hem/UID_H9_37_1_hem.bmp,HEM,train,H9,LG_H9
+fold_1/all/UID_30_12_7_all.bmp,ALL,train,30,LG_30
+fold_2/all/UID_47_1_1_all.bmp,ALL,train,47,LG_47
+fold_1/all/UID_51_98_6_all.bmp,ALL,train,51,LG_51
+fold_0/all/UID_50_15_7_all.bmp,ALL,train,50,LG_50
+fold_1/all/UID_34_27_4_all.bmp,ALL,train,34,LG_34
+fold_0/all/UID_45_34_12_all.bmp,ALL,train,45,LG_45
