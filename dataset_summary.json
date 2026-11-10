@@ -1,0 +1,11 @@
+{
+  "images": 10661,
+  "class_counts": {
+    "1": 7272,
+    "0": 3389
+  },
+  "patients": 73,
+  "fold_counts": "{('fold_0', 'ALL'): 2397, ('fold_0', 'HEM'): 1130, ('fold_1', 'ALL'): 2418, ('fold_1', 'HEM'): 1163, ('fold_2', 'ALL'): 2457, ('fold_2', 'HEM'): 1096}",
+  "dataset_root": "/content/drive/MyDrive/leukemia_4model_run/data/raw/C-NMC_Leukemia/training_data",
+  "time": "2026-10-25T12:52:52.019159+00:00"
+}

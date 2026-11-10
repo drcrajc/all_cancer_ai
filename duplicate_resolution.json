@@ -1,0 +1,34 @@
+{
+  "raw_images": 10661,
+  "retained_unique_images": 10557,
+  "excluded_extra_copies": 104,
+  "original_patient_ids": 73,
+  "analysis_groups": 66,
+  "linked_groups": {
+    "LG_20": [
+      "20",
+      "21"
+    ],
+    "LG_51": [
+      "51",
+      "75",
+      "78"
+    ],
+    "LG_H10": [
+      "H10",
+      "h3"
+    ],
+    "LG_H2": [
+      "H2",
+      "H4",
+      "H5",
+      "H6"
+    ]
+  },
+  "retained_class_counts": {
+    "1": 7180,
+    "0": 3377
+  },
+  "policy": "Keep lexicographically first relative path per pixel hash; group all source patient IDs linked by duplicates before splitting and cluster resampling. Original images are never deleted.",
+  "interpretation": "Linked IDs are conservative analysis groups, not asserted to be the same biological patient."
+}
